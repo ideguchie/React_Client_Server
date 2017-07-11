@@ -1,0 +1,15 @@
+.menubar{
+  background-color: black;
+}
+
+.menu-collection{
+  color: orange;
+}
+
+ul {
+  display: inline-block;
+  list-style: none;
+  list-style-type: none;
+  list-style-position: initial;
+  list-style-image: initial;
+}

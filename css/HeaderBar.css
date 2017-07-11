@@ -1,0 +1,10 @@
+.headerbar {
+  background: url('../images/space.jpg');
+  height: 150px;
+  padding: 20px;
+}
+
+.headerbar-items {
+  display: flex;
+  align-items: center;
+}

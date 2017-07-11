@@ -1,0 +1,18 @@
+.menuitem-icon-span-img {
+  width: 25px;
+  height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  float: left;
+  padding-right: 10px;
+  vertical-align: baseline;
+}
+
+li:hover {
+  background-color: tan;
+}

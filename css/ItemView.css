@@ -1,0 +1,22 @@
+.ItemView-container {
+  background-color: #ade;
+  margin: 5px;
+  border: 5px solid #080;
+  padding: 10px;
+}
+
+.ItemView-image {
+  position: relative;
+  left: auto;
+  height: 100px;
+  width: 100px;
+}
+
+.ItemView-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.ItemView-text1 {
+  position: relative;
+}
